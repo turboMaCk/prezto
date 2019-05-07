@@ -2,4 +2,4 @@
 *.zwc.old
 modules/*/cache.zsh
 contrib
-modules/prompt/functions/prompt_prague_shell_setup
+prompt_prague_shell_setup
